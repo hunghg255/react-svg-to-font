@@ -1,0 +1,27 @@
+
+@font-face {
+  font-family: "svgtoicon";
+  src: url('svgtoicon.eot?t=1689556682926'); /* IE9*/
+  src: url('svgtoicon.eot?t=1689556682926#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("svgtoicon.woff2?t=1689556682926") format("woff2"),
+  url("svgtoicon.woff?t=1689556682926") format("woff"),
+  url('svgtoicon.ttf?t=1689556682926') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('svgtoicon.svg?t=1689556682926#svgtoicon') format('svg'); /* iOS 4.1- */
+}
+
+[class^="svgtoicon-"], [class*=" svgtoicon-"] {
+  font-family: 'svgtoicon' !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.svgtoicon-adobe:before { content: "\ea01"; }
+.svgtoicon-demo:before { content: "\ea02"; }
+.svgtoicon-git:before { content: "\ea03"; }
+.svgtoicon-left:before { content: "\ea04"; }
+.svgtoicon-react:before { content: "\ea05"; }
+.svgtoicon-stylelint:before { content: "\ea06"; }
+
+  
