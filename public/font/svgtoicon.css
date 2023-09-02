@@ -1,12 +1,12 @@
 
 @font-face {
   font-family: "svgtoicon";
-  src: url('svgtoicon.eot?t=1689556682926'); /* IE9*/
-  src: url('svgtoicon.eot?t=1689556682926#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("svgtoicon.woff2?t=1689556682926") format("woff2"),
-  url("svgtoicon.woff?t=1689556682926") format("woff"),
-  url('svgtoicon.ttf?t=1689556682926') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('svgtoicon.svg?t=1689556682926#svgtoicon') format('svg'); /* iOS 4.1- */
+  src: url('svgtoicon.eot?t=1693615969934'); /* IE9*/
+  src: url('svgtoicon.eot?t=1693615969934#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("svgtoicon.woff2?t=1693615969934") format("woff2"),
+  url("svgtoicon.woff?t=1693615969934") format("woff"),
+  url('svgtoicon.ttf?t=1693615969934') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('svgtoicon.svg?t=1693615969934#svgtoicon') format('svg'); /* iOS 4.1- */
 }
 
 [class^="svgtoicon-"], [class*=" svgtoicon-"] {
