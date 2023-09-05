@@ -25,7 +25,7 @@
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
     "@vitejs/plugin-react": "^4.0.0",
-    "csvg-to-font": "^1.0.6",
+    "csvg-to-font": "^1.0.8",
     "eslint": "^8.43.0",
     "eslint-config-react-app": "^7.0.1",
     "husky": "^8.0.0",
